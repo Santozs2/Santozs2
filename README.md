@@ -15,11 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-dos-santos-nogueira-52980634b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.senaie@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nogueiraweb.vercel.app/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Santozs2&color=a78bfa&style=flat-square&label=Visitas+ao+perfil)
-
 </div>
 
 ---
