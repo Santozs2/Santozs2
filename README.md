@@ -1,85 +1,115 @@
-# Luis Nogueira
-# 👋 Olá, eu sou Luis Antonio dos Santos Nogueira!
-
 <div align="center">
-  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&animation=fadeIn" width="100%"/>
+<h1>
+  Luis Nogueira
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+Frontend;Estudante+SENAI+%F0%9F%8E%93;React+%7C+TypeScript+%7C+Tailwind;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-dos-santos-nogueira-52980634b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.senaie@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nogueiraweb.vercel.app/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Santozs2&color=a78bfa&style=flat-square&label=Visitas+ao+perfil)
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-dos-santos-nogueira-52980634b/)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luis.senaie@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfoliosantz.netlify.app/)
-
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, apaixonado por tecnologia e em constante busca por conhecimento. Estou construindo minha base em programação e desenvolvimento de software, sempre animado para explorar novas tecnologias e enfrentar desafios.
-
----
-
-## 🎓 Formação
-
-- **Técnico em Desenvolvimento de Sistemas** - SENAI (Cursando)
-
----
-
-## 💡 O que me move
-
-- **Curiosidade** para explorar como as coisas funcionam
-- **Sede de aprender** sempre mais e evoluir constantemente
-- Descobrir novas tecnologias e suas aplicações
-- Transformar ideias em soluções práticas através do código
+```typescript
+const luis = {
+  nome:        "Luis Antonio dos Santos Nogueira",
+  formação:    "Técnico em Desenvolvimento de Sistemas @ SENAI",
+  localização: "São José do Rio Preto - SP 🇧🇷",
+  foco:        ["Frontend", "React", "TypeScript"],
+  estudando:   ["React.js", "APIs REST", "Django", "JavaScript ES6+"],
+  curiosidade: "Transformo ideias em interfaces funcionais e bonitas ✨"
+};
+```
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<div align="center">
 
-### ⚙️ Back-end
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Frontend**
 
-### 🔧 Ferramentas
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+**Backend**
 
-## 🌟 Meus Projetos em Destaque
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🎯 Projetos Acadêmicos
-- **Sistemas de 'Match' para Braskem** - Criado com React e JavaScript
-- **Site simples SpaceAgile** - Interface responsiva com HTML5, CSS3 e JavaScript
+**Ferramentas**
 
-### 🔧 Projetos Pessoais
-- **Portfólio Digital** - Apresentação dos meus trabalhos
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📚 O Que Estou Estudando Agora
-
-- **React.js** - Componentes e Hooks
-- **APIs REST** - Integração back-end e front-end
-- **Git e GitHub** - Controle de versão e colaboração
-- **JavaScript ES6+** - Recursos modernos da linguagem
-- **Django** - Framework de Python
+</div>
 
 ---
 
-## 📫 Entre em contato
+## 📊 Estatísticas
 
-- [LinkedIn](https://www.linkedin.com/in/luis-antonio-dos-santos-nogueira-52980634b/)
-- [E-mail](mailto:luis.senaie@gmail.com)
-- [Portfolio](https://portfoliosantz.netlify.app/)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santozs2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santozs2&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Santozs2&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+</div>
 
 ---
 
-> "A curiosidade é o motor do aprendizado e a sede de conhecimento é o que nos move para frente. Sempre em busca do próximo desafio!" 🚀
+## 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🎯 **Match Braskem** | Sistema de matching desenvolvido para a Braskem | React, JavaScript |
+| 🚀 **SpaceAgile** | Interface responsiva para site institucional | HTML5, CSS3, JavaScript |
+| 💼 **Portfólio Digital** | Apresentação dos meus projetos e habilidades | React, TypeScript, Tailwind |
+
+---
+
+## 📚 Estudando agora
+
+- ⚛️ **React.js** — Componentes, Hooks e Context API
+- 🔗 **APIs REST** — Integração frontend & backend
+- 🐍 **Django** — Framework Python para backend
+- 📜 **JavaScript ES6+** — Recursos modernos da linguagem
+- 🔄 **Git & GitHub** — Fluxo de trabalho e colaboração
+
+---
+
+<div align="center">
+
+> *"A curiosidade é o motor do aprendizado e a sede de conhecimento é o que nos move para frente."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
