@@ -28,7 +28,7 @@ const luis = {
   localização: "São José do Rio Preto - SP 🇧🇷",
   foco:        ["Frontend", "React", "TypeScript"],
   estudando:   ["React.js", "APIs REST", "Django", "JavaScript ES6+"],
-  curiosidade: "Transformo ideias em interfaces funcionais e bonitas ✨"
+  curiosidade: "Tenho como principal objetivo tranformar o código em arte."
 };
 ```
 
