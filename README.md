@@ -26,7 +26,7 @@ const luis = {
   nome:        "Luis Antonio dos Santos Nogueira",
   formação:    "Técnico em Desenvolvimento de Sistemas @ SENAI",
   localização: "São José do Rio Preto - SP 🇧🇷",
-  foco:        ["Frontend", "React", "TypeScript"],
+  foco:        ["Python", "React", "TypeScript"],
   estudando:   ["React.js", "APIs REST", "Django", "JavaScript ES6+"],
   curiosidade: "Tenho como principal objetivo tranformar o código em arte."
 };
