@@ -86,7 +86,7 @@ const luis = {
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🎯 **Match Braskem** | Sistema de matching desenvolvido para a Braskem | React, JavaScript |
-| 🚀 **SpaceAgile** | Interface responsiva para site institucional | HTML5, CSS3, JavaScript |
+| 🛒 **Amor & Cacau** | Ecommerce para uma doceria | React, TypeScript, Node.js |
 | 💼 **Portfólio Digital** | Apresentação dos meus projetos e habilidades | React, TypeScript, Tailwind |
 
 ---
